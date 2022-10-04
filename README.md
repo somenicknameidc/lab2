@@ -38,5 +38,5 @@
 - [fix1](https://github.com/fl1ckthekid/lab2/releases/tag/fix1)
 
 ### Results
-- [Отчёт](https://docs.google.com/document/d/1Q7UN0C4u0By4JL-JkPbgXJZq0BmvNT9wYxHwaloJrgo/edit)
-- [Справочник](https://docs.google.com/document/d/1EQj1l1w2JoV2kbefzklTiq7YPgl_akLLmAblfNkvTEw/edit)
+- [Отчёт](https://github.com/fl1ckthekid/lab2/blob/main/Report.pdf)
+- [Справочник](https://github.com/fl1ckthekid/lab2/blob/main/Git_Guide.pdf)
